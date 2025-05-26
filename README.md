@@ -1,4 +1,4 @@
-Module work in Go and PistgresQl (pgAdminIII)
+Module work in Go and PostgreSQL (pgAdminIII)
 Postgres: make DB - persons, ticket, passenger.
           Adding data to this DB.
 Go: Work at main menu and choice menu programm. 
